@@ -1,0 +1,46 @@
+{
+  "title": "Monday Monsters Vol. 1: Undead Rising",
+  "id": "foundry-pf2e-monday-monsters-vol1",
+  "description": "",
+  "authors": [
+    {
+      "name": "Brett Jacob Tomko"
+    }
+  ],
+  "manifest": "",
+  "download": "",
+  "url": "",
+  "version": "0.9.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "esmodules": [
+    "popup.js"
+  ],
+  "packs": [
+    {
+      "label": "Monday Monsters Vol. 1",
+      "type": "Actor",
+      "name": "monday-monsters-vol1-actors",
+      "path": "./packs/monday-monsters-vol1-actors.db",
+      "system": "pf2e"
+    },
+    {
+      "label": "Monday Monsters Vol. 1 Effects",
+      "type": "Item",
+      "name": "monday-monsters-vol1-effects",
+      "path": "./packs/monday-monsters-vol1-effects.db",
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "systems": {
+        "id": "pf2e",
+        "compatibility": {
+          "minimum": "4.5.1"
+        }
+      }
+  }
+}
