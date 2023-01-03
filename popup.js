@@ -27,7 +27,8 @@ Hooks.once('ready', async function () {
 								Thank you for purchasing Monday Monsters Volume 1: Undead Rising by Brett James Tomko!
 								</h3>
 								<p>
-								This FoundryVTT module has been prepared by Avery for Eldritch Osiris Games, please report any bugs to: https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol1/issues
+								This FoundryVTT module has been prepared by Avery for Eldritch Osiris Games, please report any bugs to: 
+								<a href="https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol1/issues">https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol1/issues</a>
 								</p>
                 `,
                 buttons: {
